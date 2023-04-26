@@ -47,12 +47,9 @@ ul{
 nav a{
     float: left;
     color: darkolivegreen;
-    padding: 10px 13px;
+    padding: 13px 13px;
     font-size: 18px;
     font-weight: bold;
     background-color: lightgray;
 }
 
-a{
-    text-align: center;
-}

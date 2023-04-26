@@ -2,3 +2,11 @@ ul{
     font: size 30px;
 }
 
+nav a{
+    float: left;
+    color: darkolivegreen;
+    padding: 10px 13px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: lightgray;
+}
